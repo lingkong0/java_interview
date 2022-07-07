@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-juc/java-juc.iml" filepath="$PROJECT_DIR$/java-juc/java-juc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-rabbitmq/java-rabbitmq.iml" filepath="$PROJECT_DIR$/java-rabbitmq/java-rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_interview.iml" filepath="$PROJECT_DIR$/java_interview.iml" />
     </modules>
   </component>

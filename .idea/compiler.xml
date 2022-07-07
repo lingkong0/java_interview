@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="java-juc" />
+        <module name="java-rabbitmq" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="java-algorithm" target="8" />
       <module name="java-juc" target="8" />
+      <module name="java-rabbitmq" target="8" />
       <module name="java_interview" target="8" />
     </bytecodeTargetLevel>
   </component>
