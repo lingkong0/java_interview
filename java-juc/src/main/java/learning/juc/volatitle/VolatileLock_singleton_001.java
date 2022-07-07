@@ -1,6 +1,4 @@
-package leaning.juc.volatitle;
-
-import java.util.concurrent.ThreadPoolExecutor;
+package learning.juc.volatitle;
 
 /*
 * volatile 有序性

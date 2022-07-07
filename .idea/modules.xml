@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/java-algorithm/java-algorithm.iml" filepath="$PROJECT_DIR$/java-algorithm/java-algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-juc/java-juc.iml" filepath="$PROJECT_DIR$/java-juc/java-juc.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_interview.iml" filepath="$PROJECT_DIR$/java_interview.iml" />
     </modules>
