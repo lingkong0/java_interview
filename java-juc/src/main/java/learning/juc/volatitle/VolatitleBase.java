@@ -1,4 +1,4 @@
-package leaning.juc.volatitle;
+package learning.juc.volatitle;
 
 public class VolatitleBase {
 
