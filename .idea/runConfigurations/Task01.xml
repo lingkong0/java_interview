@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Task01" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="learning.rabbitmq.workqueus.Task01" />
+    <module name="java-rabbitmq" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="learning.rabbitmq.workqueus.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-algorithm/java-algorithm.iml" filepath="$PROJECT_DIR$/java-algorithm/java-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-base/java-base.iml" filepath="$PROJECT_DIR$/java-base/java-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-juc/java-juc.iml" filepath="$PROJECT_DIR$/java-juc/java-juc.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-rabbitmq/java-rabbitmq.iml" filepath="$PROJECT_DIR$/java-rabbitmq/java-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-redis/java-redis.iml" filepath="$PROJECT_DIR$/java-redis/java-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_interview.iml" filepath="$PROJECT_DIR$/java_interview.iml" />
     </modules>
   </component>

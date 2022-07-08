@@ -1,4 +1,4 @@
-package learning.rabbitmq;
+package learning.rabbitmq.base;
 
 
 
